@@ -1,2 +1,0 @@
-# utscrudellasutra
-uts crud
